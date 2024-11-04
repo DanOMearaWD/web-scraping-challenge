@@ -11,7 +11,6 @@ This project is a web scraping and data analysis exercise focused on Mars. The g
 - [Part 2: Scraping and Analyzing Mars Weather Data](#part-2-scraping-and-analyzing-mars-weather-data)
 - [Analysis and Insights](#analysis-and-insights)
 - [Technologies Used](#technologies-used)
-- [Usage](#usage)
 
 ## Background
 

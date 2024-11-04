@@ -1,5 +1,3 @@
-# web-scraping-challenge
- 
 # Mars Data Analysis Project
 
 This project is a web scraping and data analysis exercise focused on Mars. The goal is to scrape data from multiple sources, organize and analyze the information, and draw insights about Martian weather patterns and news.

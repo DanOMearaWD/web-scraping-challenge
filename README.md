@@ -43,6 +43,7 @@ In `part_1_mars_news.ipynb`, the following tasks are completed:
     'title': "NASA's MAVEN Observes Martian Light Show Caused by Major Solar Storm",
     'preview': "For the first time in its eight years orbiting Mars, NASA’s MAVEN mission witnessed two different types of ultraviolet aurorae simultaneously, the result of solar storms that began on Aug. 27."
 }
+```
 
 
 # Mars Weather Data Analysis
